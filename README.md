@@ -9,6 +9,7 @@
 </ol>
 
 <h2><u>UVM:</u></h2>
+<ol>
 <li><h1><i><a href="https://github.com/Sarunesh/full_adder_uvm" target="blank">Full Adder</a></i></h1>
 <p>This contains a Verilog design code and an UVM testbench code for a Full Adder.</p></li>
 </ol>
