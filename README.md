@@ -3,7 +3,7 @@
 <ul>
   <li><h2><u>Verilog:</u></h2></li>
     <ol type="1">
-      <li><h1><i><a href="https://github.com/Sarunesh/Binary_to_Gray_converter_verilog" target="blank">Binary to Gray code converter</a></i></h1>
+      <li><h3><i><a href="https://github.com/Sarunesh/Binary_to_Gray_converter_verilog" target="blank">Binary to Gray code converter</a></i></h3>
         <p>This repository contains a verilog design code and a simple verilog testbench for a simple combinational circuit: a code converter that converts a Binary code into a Gray code.</p>
       </li>
       <li><h1><i><a href="https://github.com/Sarunesh/Mealy_10110_overlap_verilog" target="blank">Mealy machine - 1</a></i></h1>
